@@ -2,18 +2,18 @@
 
 ## Identified Problem or Need
 
-Replace this text with a clearly stated problem or need that exists that your project will attempt to solve / fulfil.
+The Problem that I will be identifyng is that my dog needs to only eat raw meat which is hard to track as they are all vastly different and my mother purchases them in bulk.
 
 
 ## End-User Requirements
 
-Replace this text with a description of your typical end-users and their specific needs / expectations / requirements.
+A good end-user for this app is my mother as she feeds and owns my dog which makes it suitable for her to track everything.
+
 
 
 ## Proposed Solution
 
-Replace this text with a brief statement about the system that you intend to create, including the key functionality it should have.
-
+I intend to create an app which will be able to show what meat must be consumed first and also display information about that specific meat. The user should be able to input the new meat through a list of pre determined meats.
 
 # Relevant Implications
 
